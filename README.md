@@ -34,20 +34,3 @@ Please do not work with this repository directly unless you like to contribute t
 If you have any examples for great Actions as part of a repository template to show case the power of Actions outside traditional CI/CD, we are looking forward to your PRs.
 
 ### Star Gazers
-
-
-We got a :star: from [@TimoWilhelm](https://github.com/TimoWilhelm)
-
-We got a :star: from [@schtefan](https://github.com/schtefan)
-
-We got a :star: from [@andygrunwald](https://github.com/andygrunwald)
-
-We got a :star: from [@JeroenKnoops](https://github.com/JeroenKnoops)
-
-We got a :star: from [@npalm](https://github.com/npalm)
-
-We got a :star: from [@ajbrown415](https://github.com/ajbrown415)
-
-We got a :star: from [@ofuen](https://github.com/ofuen)
-
-We got a :star: from [@KoonNgee](https://github.com/KoonNgee)
